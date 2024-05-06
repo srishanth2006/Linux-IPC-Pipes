@@ -112,7 +112,7 @@ exit(EXIT_SUCCESS);
 
 
 
-<\nimg width="374" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Pipes/assets/150319470/e6b27370-ba7d-456b-af4c-71c31353b18c">
+<img width="374" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Pipes/assets/150319470/e6b27370-ba7d-456b-af4c-71c31353b18c">
 
 # RESULT:
 The program is executed successfully.
