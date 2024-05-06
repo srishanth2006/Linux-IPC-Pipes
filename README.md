@@ -104,7 +104,8 @@ exit(EXIT_SUCCESS);
 ```
 
 ## OUTPUT
-<img width="427" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Pipes/assets/150319470/688c0481-0b18-4f1c-85f8-9315677cd7d1">
+<img width="427" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Pipes/assets/150319470/688c0481-0b18-4f1c-85f8-9315677cd7d1\n">
+\
 
 
 
